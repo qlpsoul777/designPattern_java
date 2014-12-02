@@ -3,7 +3,7 @@ package adapter.objectOriented;
 import adapter.classOriented.Performance;
 import adapter.classOriented.User;
 /**
- * javaÖĞÊÇµ¥¼Ì³Ğ£¬Èç¹û¸ÃÀàÏñClassOritedAdapterÒ»ÑùµÄ»°¾Í²»ÄÜ¼Ì³ĞÆäËüÀàÁË¡£
+ * javaä¸­æ˜¯å•ç»§æ‰¿ï¼Œå¦‚æœè¯¥ç±»åƒClassOritedAdapterä¸€æ ·çš„è¯å°±ä¸èƒ½ç»§æ‰¿å…¶å®ƒç±»äº†ã€‚
  * @author soul
  *
  */
@@ -24,7 +24,7 @@ public class ObjectOrientedAdapter implements Performance {
 	}
 
 	public void magic() {
-		System.out.println("ÎÒ»áÄ§Êõ");
+		System.out.println("æˆ‘ä¼šé­”æœ¯");
 	}
 
 }
