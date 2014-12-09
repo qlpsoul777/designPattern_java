@@ -10,3 +10,4 @@ designPattern_java
 5、单例(Singleton)模式。
 6、工厂方法(Factory Method)模式。
 7、抽象工厂(Abstract Factory)模式。
+8、模板方法(Template Method)模式。
