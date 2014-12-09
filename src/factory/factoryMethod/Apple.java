@@ -1,9 +1,10 @@
 package factory.factoryMethod;
 
-public class Apple extends Fruit {
+public class Apple implements Fruit {
 
 	public void getName() {
 		System.out.println("苹果");
+
 	}
 
 }

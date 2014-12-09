@@ -1,7 +1,7 @@
 package factory.factoryMethod;
 
-public abstract class Fruit {
+public interface Fruit {
 	
-	public abstract void getName();
+	public void getName();
 
 }
