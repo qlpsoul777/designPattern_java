@@ -11,3 +11,4 @@ designPattern_java
 6、工厂方法(Factory Method)模式。
 7、抽象工厂(Abstract Factory)模式。
 8、模板方法(Template Method)模式。
+9、观察者(Observer)模式。
