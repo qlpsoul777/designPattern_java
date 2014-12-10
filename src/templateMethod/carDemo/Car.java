@@ -1,4 +1,4 @@
-package templateMethod;
+package templateMethod.carDemo;
 
 public class Car extends AbstractCars {
 

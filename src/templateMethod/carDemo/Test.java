@@ -1,4 +1,4 @@
-package templateMethod;
+package templateMethod.carDemo;
 
 public class Test {
 
