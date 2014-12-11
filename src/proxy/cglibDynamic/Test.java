@@ -1,7 +1,5 @@
 package proxy.cglibDynamic;
 
-import proxy.jdkDynamic.ChineseMan;
-
 public class Test {
 
 	public static void main(String[] args) {
