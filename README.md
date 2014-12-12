@@ -14,3 +14,4 @@ designPattern_java
 10、责任链(Chain Of Responsibility)模式。
 11、迭代器(Iterator)模式。
 12、代理(Proxy)模式。
+13、原型(Prototype)模式。
